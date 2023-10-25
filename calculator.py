@@ -10,3 +10,6 @@ def multiply(a, b):
 
 def divide_vew(a, b):
 	return a/b
+
+def say_Hello():
+	print("Hello")
